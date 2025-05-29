@@ -12,7 +12,7 @@
 Вводить новые параметры оборудования для получения мгновенного прогноза.
 Установка и запуск:
 
-Клонируйте репозиторий: git clone https://github.com/DobryninIlya/final_ds_course-work.git
+Клонируйте репозиторий: git clone https://github.com/FussyMussy/neuron_activated_KhafizovKarim
 Перейдите в директорию проекта: cd predictive_maintenance_project
 Установите зависимости: pip install -r requirements.txt
 Запустите приложение: streamlit run app.py
